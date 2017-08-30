@@ -13,7 +13,6 @@
     "minimum-stability":"dev",
     "require":{
         "yiisoft/yii2":"~2.0.10",
-        "slavefuming/yii2-taobao-sdk":"~1.0"
     },
     "require-dev":{
         "phpunit/phpunit": "4.8.*"
