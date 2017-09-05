@@ -3,7 +3,7 @@
     "description":"taobao sdk for yii2 php framework",
     "keyword":["yii2","taobaosdk","tao sdk"],
     "type":"yii2-extension",
-    "license":"BSD-3-Clause",
+    "license":"MIT",
     "authors":[
         {
             "name":"Fu Ming",
